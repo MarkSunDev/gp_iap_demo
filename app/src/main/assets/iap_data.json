@@ -1,0 +1,18 @@
+[
+  {
+    "product_id": "ironman_month.vip",
+    "product_title": "3 days FREE",
+    "product_desc": " by one month subscription",
+    "product_price": "US$5.99",
+    "item_select": true,
+    "paid": false
+  },
+  {
+    "product_id": "vip_service_7_day",
+    "product_title": "Unlimited subscription",
+    "product_desc": " by Unlimited subscription",
+    "product_price": "US$49.99",
+    "item_select": false,
+    "paid": false
+  }
+]
